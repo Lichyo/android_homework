@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">My Application</string>
-    <string name="test_text">test text</string>
-    <string name="btn_center">OnPressed</string>
-    <string name="text_center">Hello World!</string>
+    <string name="title">Hello World</string>
+    <string name="biggerButtonText">Bigger</string>
+    <string name="getTextButtonText">Get Text</string>
+    <string name="textFieldText">Enter your name</string>
 </resources>
