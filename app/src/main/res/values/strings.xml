@@ -1,7 +1,4 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="title">Hello World</string>
-    <string name="biggerButtonText">Bigger</string>
-    <string name="getTextButtonText">Get Text</string>
-    <string name="textFieldText">Enter your name</string>
 </resources>
